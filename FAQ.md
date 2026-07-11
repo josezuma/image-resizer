@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is image-resizer?
-A CLI tool for image resizer.
+Image Resizer
 
 ## Dependencies?
 Python stdlib only.
