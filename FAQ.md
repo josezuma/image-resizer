@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is image-resizer?
-Resize and convert image formats
+A CLI tool for image resizer.
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
